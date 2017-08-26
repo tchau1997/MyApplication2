@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BT_Github</string>
+    <string name="hello">Button</string>
+    <string name="hello1">hello</string>
 </resources>

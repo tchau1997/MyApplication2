@@ -1,4 +1,4 @@
-package com.example.vudinhai.bt_github;
+package com.example.hautc.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.vudinhai.bt_github", appContext.getPackageName());
+        assertEquals("com.example.hautc.myapplication", appContext.getPackageName());
     }
 }

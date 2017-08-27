@@ -1,4 +1,4 @@
-package com.example.hautc.myapplication;
+package com.example.vudinhai.bt_github;
 
 import org.junit.Test;
 

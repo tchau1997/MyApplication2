@@ -1,4 +1,4 @@
-package com.example.hautc.myapplication;
+package com.example.vudinhai.bt_github;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

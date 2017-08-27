@@ -37,15 +37,5 @@
         android:layout_marginBottom="172dp"
         android:id="@+id/textView2" />
 
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:id="@+id/button"
-        android:layout_below="@+id/textView"
-        android:layout_toEndOf="@+id/button2"
-        android:layout_marginStart="37dp" />
-
 
 </RelativeLayout>

@@ -14,11 +14,11 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginTop="50dp"
+        android:text="Button"
         android:layout_below="@+id/textView"
-        android:layout_marginEnd="35dp"
-        android:layout_marginTop="94dp"
-        android:layout_toStartOf="@+id/textView2"
-        android:text="Button" />
+        android:layout_alignParentEnd="true" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -36,6 +36,9 @@
         android:layout_marginEnd="99dp"
         android:layout_marginBottom="172dp"
         android:id="@+id/textView2" />
+
+
+
 
 
 </RelativeLayout>

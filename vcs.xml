@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/wikikhtn/BaiTapNhom_Hau_Manh.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/truongan161/BT_TongHop_1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/test" />
   </component>
 </application>
